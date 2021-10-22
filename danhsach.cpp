@@ -57,8 +57,9 @@ int main()
     studentInfo* list= new studentInfo;
     list->addStudent("NGUYEN HOANG QUAN", "ITITIU21291");
     list->addStudent("DAO MINH HUY","ITCSIU21132");
-    list->printStudent();
+    list->addStudent("NGUYEN HAI QUAN",""ITITWE21104");
     //cout <<"NGUYEN HOANG QUAN ITITIU21291";
     //cout << "DAO MINH HUY ITCSIU21132";
+    //cout << "NGUYEN HAI QUAN ITITWE21104";
 
 }
