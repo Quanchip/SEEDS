@@ -61,6 +61,7 @@ int main()
     list->addStudent("NGUYEN HAI QUAN","ITITWE21104");
 
     list->addStudent("NGUYEN HONG PHUC","ITCSIU21248");
+    list->addStudent("NGUYEN TRAN THIEN TRI","ITCSIU21154");
 
     list->printStudent();
     //cout <<"NGUYEN HOANG QUAN ITITIU21291";
